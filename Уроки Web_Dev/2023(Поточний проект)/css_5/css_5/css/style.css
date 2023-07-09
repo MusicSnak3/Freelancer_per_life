@@ -96,7 +96,7 @@ body {
 	/*	padding: 30px; */
 }
 
-#main {
+.container {
 	display: block;
 	margin: 0 auto;
 	width: 1190px;

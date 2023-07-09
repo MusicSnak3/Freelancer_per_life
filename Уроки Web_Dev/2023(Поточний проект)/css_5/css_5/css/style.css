@@ -91,11 +91,18 @@ h6 {
 /*--------------------*/
 
 body {
-	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-	padding: 30px;
+	background-color: #e8e8e8;
+	/* 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 30px; */
 }
 
-.list {
+#story {
+	width: 1190px;
+	height: 1457px;
+}
+
+
+/* .list {
 	margin: 0 0 50px 0;
 }
 
@@ -113,4 +120,4 @@ body {
 	height: 500px;
 	border-radius: 15px;
 	box-shadow: 0 0 10px #000;
-}
+} */
